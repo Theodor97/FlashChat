@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605127105591",
+    "firebase_url": "https://flash-chat-theo.firebaseio.com",
+    "project_id": "flash-chat-theo",
+    "storage_bucket": "flash-chat-theo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605127105591:android:6de7ad3322bb24b87c73b2",
+        "android_client_info": {
+          "package_name": "co.theo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605127105591-ah6oc8khdntfqn4n94h0tdiatm3nh6ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqE-Sejxbmle3Ow60qqfqD8fdkpxxcWK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605127105591-ah6oc8khdntfqn4n94h0tdiatm3nh6ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
